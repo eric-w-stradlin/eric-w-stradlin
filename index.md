@@ -14,8 +14,8 @@ title: "Eric – Supply Chain Business Analyst with IT Expertise"
 Bridging supply chain operations and IT solutions to drive data-driven decisions.
 
 📍 Düsseldorf, Germany  
-✉️ your@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-id)
+✉️ eric.wang0518@hotmail.com
+🔗 [LinkedIn](https://linkedin.com/in/eric-wang-2ab951126)
 
 ## Highlights
 - 3 years in supply chain (inventory, procurement, KPI design)
